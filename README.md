@@ -25,3 +25,5 @@ Install crat in your compurter:
 10.Click ok
 
 finsh
+
+Note: The author of this tool is no longer maintained
