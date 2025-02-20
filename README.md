@@ -1,5 +1,7 @@
 A bmi calculator.
 
+# Note: The author of this tool is no longer maintained
+
 Install crat in your compurter:
 
 0.Download crat.crt
@@ -26,4 +28,4 @@ Install crat in your compurter:
 
 finsh
 
-Note: The author of this tool is no longer maintained
+
